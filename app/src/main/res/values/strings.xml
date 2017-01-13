@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FirebaseNotifications</string>
+    <string name="suscribirse_a_noticias">Suscribirse a Noticias</string>
+    <string name="suscribirse_a_deportes">Suscribirse a Deportes</string>
+    <string name="suscribirse_a_entretenimiento">Suscribirse a Entretenimiento</string>
+    <string name="cancelar_suscripci_n_a_noticias">Cancelar suscripción a noticias</string>
+    <string name="cancelar_suscripci_n_a_deportes">Cancelar suscripción a deportes</string>
+    <string name="cancelar_suscripci_n_a_entretenimiento">Cancelar suscripción a entretenimiento</string>
 </resources>
